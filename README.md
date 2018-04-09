@@ -1,0 +1,1 @@
+A reference implementation of a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagram) in d3 v4.
